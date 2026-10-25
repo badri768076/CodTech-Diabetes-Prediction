@@ -1,0 +1,22 @@
+{
+  "data_source": "real_kaggle_csv",
+  "cv_roc_auc_mean": 0.9959558823529413,
+  "cv_roc_auc_std": 0.003233065185851194,
+  "test_accuracy": 0.9807692307692307,
+  "test_precision": 1.0,
+  "test_recall": 0.96875,
+  "test_f1": 0.9841269841269841,
+  "test_roc_auc": 1.0,
+  "confusion_matrix": [
+    [
+      40,
+      0
+    ],
+    [
+      2,
+      62
+    ]
+  ],
+  "n_train": 416,
+  "n_test": 104
+}
